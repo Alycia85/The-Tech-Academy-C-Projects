@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\bin\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).deps.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\bin\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).runtimeconfig.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\bin\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\bin\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\bin\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\obj\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\obj\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\obj\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\obj\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\obj\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\Boolean Comparison (While, Do While)\Boolean Comparison (While, Do While)\obj\Debug\netcoreapp2.1\Boolean Comparison (While, Do While).pdb
