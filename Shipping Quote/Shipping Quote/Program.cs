@@ -9,7 +9,7 @@ namespace Shipping_Quote
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
 
             Console.WriteLine("What does the package weigh?");
-            int pkW = Convert.ToInt32(Console.ReadLine());
+            float pkW = Convert.ToInt32(Console.ReadLine());
 
             if (pkW >= 50)
             {
@@ -19,13 +19,13 @@ namespace Shipping_Quote
             else
             {
                 Console.WriteLine("What is the package height?");
-                int pkH = Convert.ToInt32(Console.ReadLine());
+                float pkH = Convert.ToInt32(Console.ReadLine());
 
                 Console.WriteLine("What is the package Width?");
-                int pkWidth = Convert.ToInt32(Console.ReadLine());
+                float pkWidth = Convert.ToInt32(Console.ReadLine());
 
                 Console.WriteLine("What is the package Length?");
-                int pkL = Convert.ToInt32(Console.ReadLine());
+                float pkL = Convert.ToInt32(Console.ReadLine());
 
                 if (pkH + pkWidth + pkL >= 50)
 
@@ -34,8 +34,8 @@ namespace Shipping_Quote
 
                 else
                 {
-                    int dimension = pkH + pkWidth + pkL;
-                    int mult = dimension * pkW;
+                    double dimension = pkH + pkWidth + pkL;
+                    double mult = dimension * pkW;
                     double quote = mult / 100;
                     Console.WriteLine("Quote: " + "$" + quote);
                 }
