@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\bin\Debug\netcoreapp2.1\String Builder Project.deps.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\bin\Debug\netcoreapp2.1\String Builder Project.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\bin\Debug\netcoreapp2.1\String Builder Project.runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\bin\Debug\netcoreapp2.1\String Builder Project.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\bin\Debug\netcoreapp2.1\String Builder Project.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\obj\Debug\netcoreapp2.1\String Builder Project.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\obj\Debug\netcoreapp2.1\String Builder Project.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\obj\Debug\netcoreapp2.1\String Builder Project.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\obj\Debug\netcoreapp2.1\String Builder Project.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\obj\Debug\netcoreapp2.1\String Builder Project.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\String Builder Project\String Builder Project\obj\Debug\netcoreapp2.1\String Builder Project.pdb
