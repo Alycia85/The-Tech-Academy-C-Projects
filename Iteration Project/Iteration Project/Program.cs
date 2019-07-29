@@ -50,20 +50,16 @@ using System.Collections.Generic;
 
 
         List<string> intList = new List<string>();
-        intList.Add("Hello!");
+        intList.Add("Hello");
         intList.Add("Jesse");
-        Console.WriteLine("Please type Jesse or Hello! to see the index for that word.");
+        Console.WriteLine("Please type a Word or name to see if it is in the List.");
         string index = Console.ReadLine();
 
         for (int i = 0; i < intList.Count; i++)
         {
-            if (intList[i] == "Jesse")
+            if (intList[i] == index)
             {
-                Console.WriteLine(intList[i]);
-            }
-            else if (intList[i] == "Hello!")
-            {
-                Console.WriteLine(intList[i]);
+                Console.WriteLine("That is correct :)");
             }
         }
         Console.ReadLine();
