@@ -49,7 +49,24 @@ using System.Collections.Generic;
         //Console.ReadLine();
 
 
+        List<string> intList = new List<string>();
+        intList.Add("Hello!");
+        intList.Add("Jesse");
+        Console.WriteLine("Please type Jesse or Hello! to see the index for that word.");
+        string index = Console.ReadLine();
 
+        for (int i = 0; i < intList.Count; i++)
+        {
+            if (intList[i] == "Jesse")
+            {
+                Console.WriteLine(intList[i]);
+            }
+            else if (intList[i] == "Hello!")
+            {
+                Console.WriteLine(intList[i]);
+            }
+        }
+        Console.ReadLine();
 
     }
 }
