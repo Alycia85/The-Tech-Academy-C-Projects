@@ -65,9 +65,34 @@ using System.Collections.Generic;
         //Console.ReadLine();
 
 
+        //List<string> intList = new List<string>();
+        //intList.Add("Hello");
+        //intList.Add("Jesse");
+        //intList.Add("Adam");
+        //Console.WriteLine("Please type a name or word to see the index value");
+        //string index = Console.ReadLine();
+
+        //for (int i = 0; i < intList.Count; i++)
+        //{
+        //    if (intList[i] == index)
+        //    {
+        //        Console.WriteLine(i);
+        //    }
+
+        //        else
+        //    {
+        //        Console.Write("That name or word is not in the list.");
+
+        //    }
+        //}
+        //Console.ReadLine();
+
+
+        //////////8/////////
         List<string> intList = new List<string>();
         intList.Add("Hello");
         intList.Add("Jesse");
+        intList.Add("Adam");
         Console.WriteLine("Please type a name or word to see the index value");
         string index = Console.ReadLine();
 
@@ -76,13 +101,12 @@ using System.Collections.Generic;
             if (intList[i] == index)
             {
                 Console.WriteLine(i);
-                
             }
 
             else
             {
                 Console.Write("That name or word is not in the list.");
-               
+                break;
             }
         }
         Console.ReadLine();
