@@ -88,7 +88,7 @@ using System.Collections.Generic;
         //Console.ReadLine();
 
 
-        //////////8/////////
+        ////////////8///////// not iterating through each item and then breaking
         List<string> intList = new List<string>();
         intList.Add("Hello");
         intList.Add("Jesse");
@@ -103,12 +103,30 @@ using System.Collections.Generic;
                 Console.WriteLine(i);
             }
 
-            else
+            else if (i == intList.Count)
             {
-                Console.Write("That name or word is not in the list.");
-                break;
+                Console.WriteLine("That name or word is not in the list.");
             }
         }
         Console.ReadLine();
+
+
+
+        //List<string> intList = new List<string>();
+        //intList.Add("Hello");
+        //intList.Add("Alex");
+        //intList.Add("Alex");
+
+        //foreach (string name in intList)
+        //{
+        //    if (name == "Alex")
+        //    {
+        //        Console.WriteLine(name + " has already appeared in the list.");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Hello has not appeared in the list.");
+        //    }
+        //}
     }
 }
