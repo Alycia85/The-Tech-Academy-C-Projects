@@ -49,24 +49,42 @@ using System.Collections.Generic;
         //Console.ReadLine();
 
 
+        //List<string> intList = new List<string>();
+        //intList.Add("Hello");
+        //intList.Add("Jesse");
+        //Console.WriteLine("Please type Hello or Jesse to see the index value");
+        //string index = Console.ReadLine();
+
+        //for (int i = 0; i < intList.Count; i++)
+        //{
+        //    if (intList[i] == index)
+        //    {
+        //        Console.WriteLine(i);
+        //    }
+        //}
+        //Console.ReadLine();
+
+
         List<string> intList = new List<string>();
-        intList.Add("Hello!");
+        intList.Add("Hello");
         intList.Add("Jesse");
-        Console.WriteLine("Please type Jesse or Hello! to see the index for that word.");
+        Console.WriteLine("Please type a name or word to see the index value");
         string index = Console.ReadLine();
 
         for (int i = 0; i < intList.Count; i++)
         {
-            if (intList[i] == "Jesse")
+            if (intList[i] == index)
             {
-                Console.WriteLine(intList[i]);
+                Console.WriteLine(i);
+                
             }
-            else if (intList[i] == "Hello!")
+
+            else
             {
-                Console.WriteLine(intList[i]);
+                Console.Write("That name or word is not in the list.");
+               
             }
         }
         Console.ReadLine();
-
     }
 }
