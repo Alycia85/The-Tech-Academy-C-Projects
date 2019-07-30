@@ -89,26 +89,26 @@ using System.Collections.Generic;
 
 
         ////////////8///////// not iterating through each item and then breaking
-        List<string> intList = new List<string>();
-        intList.Add("Hello");
-        intList.Add("Jesse");
-        intList.Add("Adam");
-        Console.WriteLine("Please type a name or word to see the index value");
-        string index = Console.ReadLine();
+        //List<string> intlist = new List<string>();
+        //intlist.Add("hello");
+        //intlist.Add("jesse");
+        //intlist.Add("adam");
+        //Console.Writeline("Please type a name or word to see the index value");
+        //string index = Console.Readline();
 
-        for (int i = 0; i < intList.Count; i++)
-        {
-            if (intList[i] == index)
-            {
-                Console.WriteLine(i);
-            }
+        //for (int i = 0; i < intList.count; i++)
+        //{
+        //if (intList[i] == index)
+        //{
+        // console.writeline(i);
+        //}
 
-            else if (i == intList.Count)
-            {
-                Console.WriteLine("That name or word is not in the list.");
-            }
-        }
-        Console.ReadLine();
+        //else if (i <= intlist.count)
+        //{
+        //console.write("that name or word is not in the list.");
+        //}
+        //}
+        //console.readline();
 
 
 
@@ -116,17 +116,57 @@ using System.Collections.Generic;
         //intList.Add("Hello");
         //intList.Add("Alex");
         //intList.Add("Alex");
+        //Console.WriteLine("Please type a name or word to see the index value");
+        //string index = Console.ReadLine();
 
-        //foreach (string name in intList)
+        //for (int i = 0; i < intList.Count; i++)
         //{
-        //    if (name == "Alex")
+        //    if (intList[i] == index)
         //    {
-        //        Console.WriteLine(name + " has already appeared in the list.");
+        //        Console.WriteLine(i);
         //    }
-        //    else
+
+        //}
+
+
+        //List<string> intList = new List<string>();
+        //intList.Add("Hello");
+        //intList.Add("Alex");
+        //intList.Add("Alex");
+        //Console.WriteLine("Please type a name or word to see the index value");
+        //string index = Console.ReadLine();
+
+        //for (int i = 0; i < intList.Count; i++)
+        //{
+        //    if (intList[i] == index)
         //    {
-        //        Console.WriteLine("Hello has not appeared in the list.");
+        //        Console.WriteLine(i);
+        //    }
+
+        //    else if (i <= intList.Count)
+        //    {
+        //        Console.WriteLine("That is not in the List.");
         //    }
         //}
+
+
+        /////111111
+
+        List<string> intList = new List<string>();
+        intList.Add("Hello");
+        intList.Add("Alex");
+        intList.Add("Alex");
+
+        foreach (string name in intList)
+        {
+            if (name == "Alex")
+            {
+                Console.WriteLine(name + " has already appeared in the list.");
+            }
+            else
+            {
+                Console.WriteLine("Hello has not appeared in the list.");
+            }
+        }
     }
 }
