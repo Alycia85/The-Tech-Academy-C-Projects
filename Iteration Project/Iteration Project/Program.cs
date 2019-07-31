@@ -68,6 +68,40 @@ using System.Collections.Generic;
 
 
 
+<<<<<<< Updated upstream
+=======
+        //        else
+        //    {
+        //        Console.Write("That name or word is not in the list.");
+
+        //    }
+        //}
+        //Console.ReadLine();
+
+
+
+
+        //List<string> intlist = new List<string>();
+        //intlist.Add("hello");
+        //intlist.Add("jesse");
+        //intlist.Add("adam");
+        //Console.Writeline("Please type a name or word to see the index value");
+        //string index = Console.Readline();
+
+        //for (int i = 0; i < intList.count; i++)
+        //{
+        //if (intList[i] == index)
+        //{
+        // console.writeline(i);
+        //}
+
+        //else if (i <= intlist.count)
+        //{
+        //console.write("that name or word is not in the list.");
+        //}
+        //}
+        //console.readline();
+>>>>>>> Stashed changes
 
 
 
@@ -93,5 +127,30 @@ using System.Collections.Generic;
         //}
         //Console.ReadLine();
 
+<<<<<<< Updated upstream
+=======
+
+        
+
+        List<string> intList = new List<string>();
+        intList.Add("Hello");
+        intList.Add("Alex");
+        intList.Add("Alex");
+
+
+        List<string> empty = new List<string>();
+
+        foreach (string name in intList)
+        {
+            if (intList.Contains(name))
+            {
+                Console.WriteLine(name + " has already appeared in the list.");
+            }
+            else
+            {
+                Console.WriteLine("Hello has not appeared in the list.");
+            }
+        }
+>>>>>>> Stashed changes
     }
 }
