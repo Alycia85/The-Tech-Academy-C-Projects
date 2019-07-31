@@ -157,9 +157,12 @@ using System.Collections.Generic;
         intList.Add("Alex");
         intList.Add("Alex");
 
+
+        List<string> empty = new List<string>();
+
         foreach (string name in intList)
         {
-            if (name == "Alex")
+            if (intList.Contains(name))
             {
                 Console.WriteLine(name + " has already appeared in the list.");
             }
