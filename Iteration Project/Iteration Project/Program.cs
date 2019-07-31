@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
-    class Program
+class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
         //string[] names = { "Jesse ", "Erik ", "Daniel ", "Adam " };
         //Console.WriteLine("Please write a last name.");
         //string lname = Console.ReadLine();
@@ -49,7 +49,6 @@ using System.Collections.Generic;
         //Console.ReadLine();
 
 
-
         //List<string> intList = new List<string>();
         //intList.Add("Hello");
         //intList.Add("Jesse");
@@ -66,10 +65,20 @@ using System.Collections.Generic;
         //Console.ReadLine();
 
 
+        //List<string> intList = new List<string>();
+        //intList.Add("Hello");
+        //intList.Add("Jesse");
+        //intList.Add("Adam");
+        //Console.WriteLine("Please type a name or word to see the index value");
+        //string index = Console.ReadLine();
 
+        //for (int i = 0; i < intList.Count; i++)
+        //{
+        //    if (intList[i] == index)
+        //    {
+        //        Console.WriteLine(i);
+        //    }
 
-<<<<<<< Updated upstream
-=======
         //        else
         //    {
         //        Console.Write("That name or word is not in the list.");
@@ -101,36 +110,48 @@ using System.Collections.Generic;
         //}
         //}
         //console.readline();
->>>>>>> Stashed changes
 
 
 
         //List<string> intList = new List<string>();
         //intList.Add("Hello");
-        //intList.Add("Jesse");
-        //Console.WriteLine("Please type a Word or name to see if it is in the List.");
+        //intList.Add("Alex");
+        //intList.Add("Alex");
+        //Console.WriteLine("Please type a name or word to see the index value");
         //string index = Console.ReadLine();
 
-        //for (int i = 0; i <= intList.Count; i++)
+        //for (int i = 0; i < intList.Count; i++)
         //{
         //    if (intList[i] == index)
         //    {
-        //        Console.WriteLine("That is correct :)");
-        //        break;
+        //        Console.WriteLine(i);
         //    }
 
+        //}
 
-        //    else
+
+        //List<string> intList = new List<string>();
+        //intList.Add("Hello");
+        //intList.Add("Alex");
+        //intList.Add("Alex");
+        //Console.WriteLine("Please type a name or word to see the index value");
+        //string index = Console.ReadLine();
+
+        //for (int i = 0; i < intList.Count; i++)
+        //{
+        //    if (intList[i] == index)
         //    {
-        //        Console.WriteLine("That is not in the List");
+        //        Console.WriteLine(i);
+        //    }
+
+        //    else if (i <= intList.Count)
+        //    {
+        //        Console.WriteLine("That is not in the List.");
         //    }
         //}
-        //Console.ReadLine();
 
-<<<<<<< Updated upstream
-=======
 
-        
+
 
         List<string> intList = new List<string>();
         intList.Add("Hello");
@@ -151,6 +172,5 @@ using System.Collections.Generic;
                 Console.WriteLine("Hello has not appeared in the list.");
             }
         }
->>>>>>> Stashed changes
     }
 }
