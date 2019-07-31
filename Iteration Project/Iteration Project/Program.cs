@@ -158,18 +158,21 @@ class Program
         intList.Add("Alex");
         intList.Add("Alex");
 
-
         List<string> empty = new List<string>();
+
+
 
         foreach (string name in intList)
         {
-            if (intList.Contains(name))
+            if (empty.Contains(name))
             {
+                
                 Console.WriteLine(name + " has already appeared in the list.");
             }
             else
             {
-                Console.WriteLine("Hello has not appeared in the list.");
+                empty.Add(name);
+                Console.WriteLine("That word or name has not appeared in the list.");
             }
         }
     }
