@@ -6,18 +6,13 @@ namespace Void_113
 {
     class Class1
     {
-        public void Divide (out int math)
+        public void Divide (out int asds, int num)
         {
-
-            int h = 100;
-
-            math = 50;
-            int  div = h / math;
-
-           
-            Console.WriteLine("The second number: {0}", math);
-            Console.ReadLine();
+            asds = 50;
+            int  div = num / asds;
+                                  
         }
+        
     }
     
 }
