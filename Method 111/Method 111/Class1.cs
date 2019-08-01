@@ -6,7 +6,7 @@ namespace Method_111
 {
     class Class1
     {
-        public static int Sum(int num1)
+        public int Sum(int num1)
         {
 
             int result = num1 + 2;
@@ -14,7 +14,7 @@ namespace Method_111
             return result;
         }
 
-        public static int Multiply(int num2)
+        public int Multiply(int num2)
         {
 
             int result = num2 * 3;
@@ -22,7 +22,7 @@ namespace Method_111
             return result;
         }
 
-        public static int Divide(int num3)
+        public int Divide(int num3)
         { 
             int result = num3 / 5;
 
