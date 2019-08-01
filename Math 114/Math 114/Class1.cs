@@ -16,17 +16,17 @@ namespace Math_114
 
 
 
-        public int Divide(double num3)
+        public int Divide(double num1)
         {
-            int result = Convert.ToInt32(num3 + 5);
+            int result = Convert.ToInt32(num1 + 5);
 
             return result;
         }
 
 
-        public int Divide(string num3)
+        public int Divide(string num2)
         {
-            int i = Convert.ToInt32(num3);
+            int i = Convert.ToInt32(num2);
             int result = i * 5;
 
             return result;
