@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\bin\Debug\netcoreapp2.1\120 Employee F L name.deps.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\bin\Debug\netcoreapp2.1\120 Employee F L name.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\bin\Debug\netcoreapp2.1\120 Employee F L name.runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\bin\Debug\netcoreapp2.1\120 Employee F L name.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\bin\Debug\netcoreapp2.1\120 Employee F L name.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\obj\Debug\netcoreapp2.1\120 Employee F L name.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\obj\Debug\netcoreapp2.1\120 Employee F L name.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\obj\Debug\netcoreapp2.1\120 Employee F L name.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\obj\Debug\netcoreapp2.1\120 Employee F L name.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\obj\Debug\netcoreapp2.1\120 Employee F L name.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\120 Employee F L name\120 Employee F L name\obj\Debug\netcoreapp2.1\120 Employee F L name.pdb

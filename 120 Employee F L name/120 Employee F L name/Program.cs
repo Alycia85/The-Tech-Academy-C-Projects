@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _120_Employee_F_L_name
 {
@@ -6,7 +7,10 @@ namespace _120_Employee_F_L_name
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee name = new Employee();
+            name.Names = new List<string>() { "Sample", "Student" };
+            name.SayName();
+            Console.ReadLine();
         }
     }
 }
