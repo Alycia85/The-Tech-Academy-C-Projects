@@ -7,8 +7,7 @@ namespace _120_Employee_F_L_name
     {
         static void Main(string[] args)
         {
-            Employee name = new Employee();
-            name.Names = new List<string>() { "Sample", "Student" };
+            Employee name = new Employee() { firstName = "Sample", lastName = "Student" };
             name.SayName();
             Console.ReadLine();
         }
