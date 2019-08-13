@@ -9,10 +9,8 @@ namespace _124_abstract
         public string firsName { get; set; }
         public string lastName { get; set; }
 
-        public void SayName()
-        {
-
-        }
+        public abstract void SayName();
+        
 
 
     }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _124_abstract
 {
@@ -6,7 +7,9 @@ namespace _124_abstract
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee name = new Employee() { firsName = "Sample", lastName = "Student" };
+            name.SayName();
+            Console.ReadLine();
         }
     }
 }
