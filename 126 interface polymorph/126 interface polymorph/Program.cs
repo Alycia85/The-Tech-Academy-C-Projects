@@ -6,8 +6,8 @@ namespace _126_interface_polymorph
     {
         static void Main(string[] args)
         {
-            Employee name = new Employee() { firsName = "Sample", lastName = "Student" };
-            name.SayName();
+            IQuittable quit = new Employee();
+            quit.Quit();
             Console.ReadLine();
         }
     }

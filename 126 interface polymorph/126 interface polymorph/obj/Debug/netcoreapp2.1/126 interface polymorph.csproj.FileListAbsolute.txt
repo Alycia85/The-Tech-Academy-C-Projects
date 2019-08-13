@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\bin\Debug\netcoreapp2.1\126 interface polymorph.deps.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\bin\Debug\netcoreapp2.1\126 interface polymorph.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\bin\Debug\netcoreapp2.1\126 interface polymorph.runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\bin\Debug\netcoreapp2.1\126 interface polymorph.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\bin\Debug\netcoreapp2.1\126 interface polymorph.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\obj\Debug\netcoreapp2.1\126 interface polymorph.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\obj\Debug\netcoreapp2.1\126 interface polymorph.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\obj\Debug\netcoreapp2.1\126 interface polymorph.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\obj\Debug\netcoreapp2.1\126 interface polymorph.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\obj\Debug\netcoreapp2.1\126 interface polymorph.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-C-Projects\126 interface polymorph\126 interface polymorph\obj\Debug\netcoreapp2.1\126 interface polymorph.pdb

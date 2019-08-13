@@ -13,7 +13,7 @@ namespace _126_interface_polymorph
 
         public void Quit()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("I no longer work for this company");
         }
     }
 }
