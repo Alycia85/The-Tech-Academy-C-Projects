@@ -4,7 +4,16 @@ using System.Text;
 
 namespace _124_abstract
 {
-    class Person
+    public abstract class Person
     {
+        public string firsName { get; set; }
+        public string lastName { get; set; }
+
+        public void SayName()
+        {
+
+        }
+
+
     }
 }
