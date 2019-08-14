@@ -6,7 +6,19 @@ namespace _129_operation_overload
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee id1 = new Employee()
+            {
+               
+                Id = 5
+            };
+            Employee id2 = new Employee()
+            {
+                Id = 7
+            };
+
+            Console.WriteLine(id1 == id2);
+            Console.ReadLine();
+
         }
     }
 }
