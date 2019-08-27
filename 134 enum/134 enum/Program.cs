@@ -6,19 +6,40 @@ namespace _134_enum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter the day of the week.");
-            string day = Console.ReadLine();
+           
 
             try
             {
+                Console.WriteLine("Please enter the day of the week.");
+                var day = Console.ReadLine();
                 DaysOfTheWeek days = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), day);
-                Console.WriteLine("You have entered: " + days);
+
+                int value;
+                if (int.TryParse(day, out value))
+                {
+                    Console.WriteLine("This is a number. Please enter a day of the week.");
+                }
+                else
+                {
+                    for (int i = 0; i < 7; i++)
+                    {
+                        if (days == (DaysOfTheWeek)i)
+                        {
+                            Console.WriteLine("You have entered: " + days);
+                        }
+                    }
+
+                }
             }
             catch (Exception)
             {
                 Console.WriteLine("Please enter an actual day of the week.");
             }
-
+            
+            finally
+            {
+                Console.ReadLine();
+            }
         }
             
             
